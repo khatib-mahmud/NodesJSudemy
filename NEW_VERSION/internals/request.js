@@ -10,3 +10,7 @@ function send(url, data) {
 }
 
 module.exports = { REQUEST_TIMEOUT, send };
+
+// export { REQUEST_TIMEOUT, send };
+
+console.log("HELLO from request.js");
